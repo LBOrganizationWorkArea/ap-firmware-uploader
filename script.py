@@ -1,7 +1,5 @@
-import nmap
 import os
 import sys
-import subprocess
 
 
 firmware=sys.argv[1]
